@@ -1,4 +1,4 @@
-Calculus Assingment:
+Calculus Assignment:
 
 GROUP MEMBERS:
 
@@ -17,7 +17,7 @@ ERRORS & CHALLENGES FACED:
 
 2. Marion while running. It was a typo that we had to trace for a while on a google meet.
 
-3. We had issues trying to edit the collab doc at the same time which crashed multiple times. We had to overcome this by doing better version control. 
+3. We had issues trying to edit the Google colab doc at the same time which crashed multiple times. We had to overcome this by doing better version control. 
 
 RESOURCES USED:
 
